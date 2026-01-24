@@ -1,53 +1,53 @@
-{
+[
     {
-      "title": "Vaahtokarkki-ilta Kodalla klo 14-20",
-      "eventdate": "5.2.2026",
-      "address": "Ylläksentie, 95970 Äkäslompolo",
-      "link": "https://www.velhonkota.fi/"
+        "title": "Vaahtokarkki-ilta Kodalla klo 14-20",
+        "eventdate": "5.2.2026",
+        "address": "Ylläksentie, 95970 Äkäslompolo",
+        "link": "https://www.velhonkota.fi/"
     },
     {
-      "title": "Kansainvälinen Ski Patrol -päivä",
-      "eventdate": "10.2.2026",
-      "address": "Tunturintie 56, 95970 Äkäslompolo",
-      "link": "https://ski.yllas.fi/tapahtumat/"
+        "title": "Kansainvälinen Ski Patrol -päivä",
+        "eventdate": "10.2.2026",
+        "address": "Tunturintie 56, 95970 Äkäslompolo",
+        "link": "https://ski.yllas.fi/tapahtumat/"
     },
     {
-      "title": "Ystävänpäivän hissikelkkailun parikisa",
-      "eventdate": "14.2.2026",
-      "address": "Tunturintie 56, 95970 Äkäslompolo",
-      "link": "https://ski.yllas.fi/tapahtumat/"
+        "title": "Ystävänpäivän hissikelkkailun parikisa",
+        "eventdate": "14.2.2026",
+        "address": "Tunturintie 56, 95970 Äkäslompolo",
+        "link": "https://ski.yllas.fi/tapahtumat/"
     },
     {
-      "title": "Wernerin laskiaishulinat",
-      "eventdate": "15.2.2026",
-      "address": "Iso-Ylläksentie 44, 95980 Ylläsjärvi",
-      "link": "https://ski.yllas.fi/tapahtumat/"
+        "title": "Wernerin laskiaishulinat",
+        "eventdate": "15.2.2026",
+        "address": "Iso-Ylläksentie 44, 95980 Ylläsjärvi",
+        "link": "https://ski.yllas.fi/tapahtumat/"
     },
     {
-      "title": "Menomono Lattarit -kurssi",
-      "eventdate": "13-15.2.2026",
-      "address": "Äkäsentie 10, 95970 Äkäslompolo",
-      "link": "https://www.menomono.fi/7113"
+        "title": "Menomono Lattarit -kurssi",
+        "eventdate": "13-15.2.2026",
+        "address": "Äkäsentie 10, 95970 Äkäslompolo",
+        "link": "https://www.menomono.fi/7113"
     },
     {
-      "title": "Titanium Pikkupuikka",
-      "eventdate": "16.2.2026",
-      "address": "Iso-Ylläksentie 44, 95980 Ylläsjärvi",
-      "link": "https://ski.yllas.fi/tapahtumat/"
+        "title": "Titanium Pikkupuikka",
+        "eventdate": "16.2.2026",
+        "address": "Iso-Ylläksentie 44, 95980 Ylläsjärvi",
+        "link": "https://ski.yllas.fi/tapahtumat/"
     },
     {
-      "title": "Ylläs Fun Race",
-      "eventdate": "17.2.2026",
-      "address": "Iso-Ylläksentie 44, 95980 Ylläsjärvi",
-      "link": "https://ski.yllas.fi/tapahtumat/"
+        "title": "Ylläs Fun Race",
+        "eventdate": "17.2.2026",
+        "address": "Iso-Ylläksentie 44, 95980 Ylläsjärvi",
+        "link": "https://ski.yllas.fi/tapahtumat/"
     },
     {
-      "title": "Rinnekisa Perherinteellä / Dondo-hissillä",
-      "eventdate": "17.2.2026",
-      "address": "Tunturintie 56, 95970 Äkäslompolo",
-      "link": "https://ski.yllas.fi/tapahtumat/"
+        "title": "Rinnekisa Perherinteellä / Dondo-hissillä",
+        "eventdate": "17.2.2026",
+        "address": "Tunturintie 56, 95970 Äkäslompolo",
+        "link": "https://ski.yllas.fi/tapahtumat/"
     }
-}
+]
 
 
 
